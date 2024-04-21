@@ -1,0 +1,22 @@
+      body{background-image: url("image/esther/1713558055249.jpg");}
+        .poster h1{
+            background-color: blue;
+            text-transform: uppercase;
+            text-align: center;
+            font-family:"Libre Baskerville", serif ;
+            border: 3px solid black;
+        }
+        .first{
+            border: solid black;
+            border: 20px,20px;
+            text-align: center;
+            font-family:"Libre Baskerville", serif ;
+            height: 120px;
+            width: 200px;
+            margin: 10px;
+            color: black;
+        }
+        .second{
+            margin-left: 80px;
+            
+        }

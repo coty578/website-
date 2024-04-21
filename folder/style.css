@@ -1,0 +1,45 @@
+
+        h1{
+            text-align: center;
+            text-transform: uppercase;
+            font-family: "Libre Baskerville", serif;
+            font-style: normal;
+            color: blue;
+           }
+        #first{
+            border: solid black;
+            border-width: 20px,10px;
+            margin-left: 30px;
+            margin-top: 10px;
+        }
+        #second{
+            border: solid black;
+            border-width: 20px,10px;
+            margin-left: 30px;
+            margin-top: 10px;
+        }
+        #third{
+            border: solid black;
+            border-width: 20px,10px;
+            margin-left: 30px;
+            margin-top: 10px;
+        }
+        #four{
+            border: solid black;
+            border-width: 20px,10px;
+            margin-left: 30px;
+            margin-top: 10px;
+        }
+        #five{
+            border: solid black;
+            border-width: 20px,10px;
+            margin-left: 30px;
+            margin-top: 10px;
+        }
+        img{
+            height: 400px;
+            width: 400px;
+        }
+        .counter{
+            display: inline-flex;
+        }
